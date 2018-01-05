@@ -5,7 +5,7 @@
 ### [编码风格规范](https://phphub.org/topics/2079)
 ### [php之道](http://laravel-china.github.io/php-the-right-way/)
 # 方法注释
-/**<br>
+/**
 /* @description:<br>
 /* @author:<br>
 /* @Email:<br>
